@@ -1,4 +1,4 @@
-Hi 👋 My name is Erkut
+Hi 👋 My name is Erkut!
 ======================
 
 Full-Stack Developer
